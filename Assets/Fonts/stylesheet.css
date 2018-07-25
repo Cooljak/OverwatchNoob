@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'BigNoodleTitling';
+    src: url('BigNoodleTitling-Oblique.eot');
+    src: url('BigNoodleTitling-Oblique.eot?#iefix') format('embedded-opentype'),
+        url('BigNoodleTitling-Oblique.woff') format('woff'),
+        url('BigNoodleTitling-Oblique.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
